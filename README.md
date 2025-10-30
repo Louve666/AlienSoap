@@ -28,8 +28,8 @@ This project provides a set of Python scripts to clean and process large text fi
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Louve666/AlienSoap.git
+    cd AlienSoap
     ```
 
 2.  **Create the source directory:**
