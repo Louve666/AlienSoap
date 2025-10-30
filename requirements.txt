@@ -1,0 +1,2 @@
+# No external dependencies required for ALIEN_SOAP.py
+# Uses only Python standard library: os, re, sys, termios, tty, select, platform
